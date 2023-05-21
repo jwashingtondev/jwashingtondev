@@ -1,12 +1,15 @@
 ### Hi there 👋
-
+I'm Juanita, a budding web developer and content creator, looking to work for software and marketing companies!
+- 🔭 I’m currently working on ...Learning React, My Next Frontend Mentor Project
+- 🌱 I’m currently learning ...Front-end Libraries(already learned the basics of Bootstrap, JQuery, and Sass)
+- ⚡ Fun facts: ...I'm also learning Japanese and Spanish and a HUGE fan of Visuak Kei! I also love playing video games!
 <!--
 **jwashingtondev/jwashingtondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...Learning React, My Next Frontend Mentor Project
+- 🌱 I’m currently learning ...Front-end Libraries(already learned the basics of Bootstrap, JQuery, and Sass)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
